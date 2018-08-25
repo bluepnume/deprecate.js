@@ -91,3 +91,7 @@ setTimeout(function() {
       console.log('hello world')
   }, 1000);
   ```
+  
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/2
