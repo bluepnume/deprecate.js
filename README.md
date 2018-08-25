@@ -1,5 +1,7 @@
 # deprecate.js
 
+What if we paused adding new javascript features, and start removing old ones?
+
 ## Rationale
 
 Javascript as a language is cluttered with swathes of features, syntax, and oddities that just don't need to exist any more. Like, some really strange shit.
