@@ -25,3 +25,7 @@ let foo = 'bar';
 ```javascript
 console.log("bar " + baz);
 ```
+  
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/4
