@@ -24,6 +24,7 @@ Please include:
 
 1. A rationale explaining why the feature you hate should be universally hated by everyone, and why it should eventually be blasted into the sun.
 2. Some code examples showing code which will be allowed in the new utopian world, and code which will be universally shunned, exiled, and fail to compile.
+3. A link to an issue so people can discuss and tell you how awesome your idea is, or give you suggestions for how to be brutal and cut even more old horrible features.
 
 That ought to do for now!
 
@@ -37,4 +38,9 @@ If anyone wants to flesh out how we could actually get to this point -- submit a
 
 ## Existing proposals
 
-Coming soon!
+- [No for-in loops](/bluepnume/deprecate.js/blob/master/proposals/no-for-in-loops.md)
+- [No function keyword](/bluepnume/deprecate.js/blob/master/proposals/no-function-keyword.md)
+- [No function prototype](/bluepnume/deprecate.js/blob/master/proposals/no-function-prototype.md)
+- [No single or double quotes](/bluepnume/deprecate.js/blob/master/proposals/no-single-or-double-quotes.md)
+- [No this outside of clases](/bluepnume/deprecate.js/blob/master/proposals/no-this-outside-of-classes.md)
+- [No var](/bluepnume/deprecate.js/blob/master/proposals/no-var.md)
