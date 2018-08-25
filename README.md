@@ -33,7 +33,7 @@ I'm not sure. Maybe if enough people are interested (yay democracy!) the powers 
 
 When I say 'sane' I really mean something more like semver and less like `"use strict"`. Please.
 
-If anyone wants to flesh out how we could actually get to this point -- well, accepting PRs, so go ahead!
+If anyone wants to flesh out how we could actually get to this point -- submit a PR with a proposal! As somebody with not a lot of insight into how TC39 works, I really just want a place to throw the proverbial spaghetti at the wall.
 
 ## Existing proposals
 
