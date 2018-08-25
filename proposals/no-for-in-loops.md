@@ -42,3 +42,7 @@ for (let key in myObject) {
     }
 }
 ```
+
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/1
