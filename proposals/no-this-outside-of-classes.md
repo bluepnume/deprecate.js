@@ -65,3 +65,7 @@ eval(`console.log(this.baz)`); // I mean this is like, doubly evil...
 - As a caveat to this, let's:
   - Remove `.bind()` entirely
   - Make `.call()` / `.apply()` only take arguments, and remove the context argument
+  
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/5
