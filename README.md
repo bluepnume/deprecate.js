@@ -38,9 +38,9 @@ If anyone wants to flesh out how we could actually get to this point -- submit a
 
 ## Existing proposals
 
-- [No for-in loops](/bluepnume/deprecate.js/blob/master/proposals/no-for-in-loops.md)
-- [No function keyword](/bluepnume/deprecate.js/blob/master/proposals/no-function-keyword.md)
-- [No function prototype](/bluepnume/deprecate.js/blob/master/proposals/no-function-prototype.md)
-- [No single or double quotes](/bluepnume/deprecate.js/blob/master/proposals/no-single-or-double-quotes.md)
-- [No this outside of clases](/bluepnume/deprecate.js/blob/master/proposals/no-this-outside-of-classes.md)
-- [No var](/bluepnume/deprecate.js/blob/master/proposals/no-var.md)
+- [No for-in loops](/proposals/no-for-in-loops.md)
+- [No function keyword](/proposals/no-function-keyword.md)
+- [No function prototype](/proposals/no-function-prototype.md)
+- [No single or double quotes](/proposals/no-single-or-double-quotes.md)
+- [No this outside of clases](/proposals/no-this-outside-of-classes.md)
+- [No var](/proposals/no-var.md)
