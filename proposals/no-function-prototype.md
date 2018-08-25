@@ -28,3 +28,7 @@ Foo.prototype.baz = function() {
     console.log(this.foo);
 };
 ```
+  
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/3
