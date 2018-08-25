@@ -8,6 +8,8 @@ Here's what I propose:
 
 Unless you're directly in a class method, or an arrow function inside a class method, `this` is a syntax error.
 
+Reason: there are always better alternatives when you're outside of a class. Inside of a class, `this` is pretty much irreplaceable.
+
 ## Good
 
 ```javascript
@@ -57,3 +59,9 @@ let foo = {
 ```javascript
 eval(`console.log(this.baz)`); // I mean this is like, doubly evil...
 ```
+
+### Notes
+
+- As a caveat to this let's
+  - Remove `.bind()` entirely\
+  - Make `.call()` / `.apply()` only take arguments, not a context argument.
