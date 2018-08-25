@@ -2,7 +2,7 @@
 
 ## Rationale
 
-Show me a javascript engineer who thinks `this` is a great idea outside of the context of a class, and I'll show you a javascript engineer who doesn't want to waste all the time they spent learning the myriad values of `this`.
+Show me a javascript engineer who thinks `this` is a great idea outside of the context of a class, and I'll show you a javascript engineer who doesn't want to waste all the time they spent learning the myriad values of `this`. (If you want to learn all the possible values of `this`, see [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this). This is all of the evidence you should need that this needs to be fixed...)
 
 Here's what I propose:
 
