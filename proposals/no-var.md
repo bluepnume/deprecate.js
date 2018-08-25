@@ -19,3 +19,7 @@ const foo = `bar`;
 ```javascript
 var foo = `bar`;
 ```
+  
+## Discussion
+
+https://github.com/bluepnume/deprecate.js/issues/6
