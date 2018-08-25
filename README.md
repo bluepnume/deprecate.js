@@ -46,3 +46,7 @@ If anyone wants to flesh out how we could actually get to this point -- submit a
 - [No single or double quotes](/proposals/no-single-or-double-quotes.md)
 - [No this outside of clases](/proposals/no-this-outside-of-classes.md)
 - [No var](/proposals/no-var.md)
+
+## Code of Conduct
+
+Be excellent to each other.
